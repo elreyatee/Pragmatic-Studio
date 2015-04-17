@@ -1,6 +1,6 @@
 Knuckleheads High Scores:
-Berserker...........3405
-Daredevil...........2595
-Punisher............2305
-Batman..............2065
-Klutz...............1602.5
+Daredevil...........1135
+Batman..............660
+Klutz...............540.0
+Berserker...........260
+Punisher............225
