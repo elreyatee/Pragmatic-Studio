@@ -1,2 +1,3 @@
-# Pragmatic-Studio-Inheritance
-Pragmatic Studio Ruby - Inheritance Lesson
+# Pragmatic-Studio
+Pragmatic Studio 
+
